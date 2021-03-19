@@ -22,4 +22,4 @@ Design solution architecture for deploying / Implementing a recommendation engin
 
 ##### Output expected
 
-- the output should show the deployment and the Implementation view
+- the output should show the deployment and the Implementation view as design document with all core architecture considerations and components. 
