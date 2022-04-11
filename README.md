@@ -17,9 +17,8 @@ Design solution architecture for deploying / Implementing a recommendation engin
 ##### Have in mind:
 
 - to be implemented on AWS stack
-- we are not looking at the modelling approach but more interested in deploying and running the recommendation engine in a scalabale manner 
 - the model prediction service has to scale for millions of users
 
 ##### Output expected
 
-- the output should show the deployment and the Implementation view as design document with all core architecture considerations and components. 
+- the output should show the MLOps view focusing on deployment and the Implementation view as design document with all core architecture considerations and components. 
